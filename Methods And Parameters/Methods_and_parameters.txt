@@ -1,0 +1,4 @@
+- Methods are the building blocks of Java applications
+- They allow you to break down complex tasks into smaller, more manageable pieces
+-  Parameters enhance the flexibility and reusability of methods, enabling them to operate on different data each time they are called
+- Without parameters, methods would be limited to performing the same operations on the same data, significantly reducing their usefulness
